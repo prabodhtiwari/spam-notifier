@@ -37,7 +37,7 @@ yarn test
 From project root run following command
 
 ```
-yarn start
+yarn build && yarn start
 ```
 
 You can access it at http://127.0.0.1:3000
